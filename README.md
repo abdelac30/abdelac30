@@ -78,16 +78,16 @@ Bienvenue sur mon profil ! 🌞 Basé dans le Sud de la France, je suis en recon
   </a>
 
   </p>
-"Mon parcours professionnel m'a conduit à travailler chez Orange en tant que commercial, une expérience qui m'a apporté une solide expertise dans les télécommunications et la relation client. J'ai développé mes compétences en vente et en communication tout en m'adaptant à un environnement dynamique et évolutif.
+Mon parcours professionnel m'a conduit à travailler chez Orange en tant que commercial, une expérience qui m'a apporté une solide expertise dans les télécommunications et la relation client. J'ai développé mes compétences en vente et en communication tout en m'adaptant à un environnement dynamique et évolutif.
 
 En rejoignant ensuite l'équipe de Free, j'ai poursuivi mon enrichissement dans le domaine des télécommunications. J'ai eu l'opportunité d'œuvrer sur des projets innovants et de contribuer au développement de solutions sur mesure pour nos clients.
 
 Avant mon engagement dans le secteur des télécommunications, j'ai également exercé en tant qu'éducateur au sein du ministère de la Justice. Cette expérience m'a permis de mettre en avant mes compétences en communication et en gestion des relations humaines dans un contexte différent, où j'ai pu soutenir et accompagner des personnes en difficulté.
 
-Ces diverses expériences ont nourri ma croissance professionnelle et personnelle, m'offrant un éventail de compétences complémentaires. Reconnaissant des opportunités qui se sont présentées à moi, je suis prêt à relever de nouveaux défis avec passion et détermination."
+Ces diverses expériences ont nourri ma croissance professionnelle et personnelle, m'offrant un éventail de compétences complémentaires. Reconnaissant des opportunités qui se sont présentées à moi, je suis prêt à relever de nouveaux défis avec passion et détermination.
 
 ## <span style="display: flex;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="17.9" /></span>ALS 🌱
 
 
 
-"Bien déterminé à devenir un expert en data, je m'engage pleinement dans l'apprentissage et le développement de compétences dans ce domaine passionnant. Mon objectif est de maîtriser les concepts fondamentaux de l'analyse de données, du machine learning et de l'intelligence artificielle, afin de pouvoir résoudre des problèmes complexes et prendre des décisions éclairées basées sur les données. Je suis animé par la volonté de contribuer à des projets innovants et de relever les défis technologiques de demain, en apportant ma valeur ajoutée en tant qu'expert en data."
+Bien déterminé à devenir un expert en data, je m'engage pleinement dans l'apprentissage et le développement de compétences dans ce domaine passionnant. Mon objectif est de maîtriser les concepts fondamentaux de l'analyse de données, du machine learning et de l'intelligence artificielle, afin de pouvoir résoudre des problèmes complexes et prendre des décisions éclairées basées sur les données. Je suis animé par la volonté de contribuer à des projets innovants et de relever les défis technologiques de demain, en apportant ma valeur ajoutée en tant qu'expert en data.
