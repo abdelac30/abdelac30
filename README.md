@@ -4,7 +4,7 @@
 
 ## Aspirant Expert en DATA | En reconversion | Fan de Tech
 
-Bienvenue sur mon profil ! 🌞 Basé dans le Sud de la France, je suis en reconversion professionnelle, passant de conseiller commercial à Data Analyst. 📈 Actuellement en quête de connaissances, je m'immerge dans le monde des données, travaillant dur pour acquérir de nouvelles compétences.
+Bienvenue sur mon profil ! 🌞 Basé dans le Sud de la France, je suis en reconversion professionnelle, passant de conseiller commercial à Developpeur Full Stack. 📈 Actuellement en quête de connaissances, je m'immerge dans le monde du web, travaillant dur pour acquérir de nouvelles compétences.
 
 ## Technologies & Tools 🛠️
 <p align="left">
